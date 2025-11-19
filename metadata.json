@@ -1,0 +1,5 @@
+{
+  "name": "결혼생활 만족도 검사",
+  "description": "부부의 결혼 생활 만족도를 5가지 영역에서 진단하고 분석하는 서비스",
+  "requestFramePermissions": []
+}
